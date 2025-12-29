@@ -9,7 +9,7 @@ public record Repo(String name, String ownerLogin)
             return new Repo(repoBase.name, repoBase.getOwnerLogin());
         }
 
-        public String getOwnerLogin() {
+        private String getOwnerLogin() {
             return owner.login;
         }
 
