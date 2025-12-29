@@ -4,3 +4,6 @@ spring:
   web:
     error:
       include-message: always
+
+app:
+  github-api-base-url: "https://api.github.com"
