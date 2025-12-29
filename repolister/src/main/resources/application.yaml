@@ -1,3 +1,6 @@
 spring:
   application:
     name: repolister
+  web:
+    error:
+      include-message: always
