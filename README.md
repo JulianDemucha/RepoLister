@@ -1,6 +1,6 @@
 # RepoLister
 
-**Aplikacja do listowania wszystkich repozytoriów użytkownika githuba poza forkami.**
+**Aplikacja do listowania wszystkich repozytoriów podanego użytkownika githuba poza forkami.**
 
 *Główny i jedyny endpoint: `/repos/{userLogin} GET`*
 
